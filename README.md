@@ -1,2 +1,1 @@
-# CW3E-DL
-Python codes for the Deep learning algorithm for MWR paper "Deep Learning of a 200-member Ensemble with a Limited Historical Training to Improve the Prediction of Extreme Precipitation Events"
+This repository contains files with Python code for the Deep learning algorithm "CW3E-DL" discussed in the following publication: Ghazvinian, M., Delle Monache, L., Afzali Gorooh, V., Steinhoff, D., Sengupta, A., Hu, W., Simpson, M., Weihs, R., Papadopoulos, C., Mulrooney, P., Kawzenuk, B., Mascioli, N., Ralph, F.M. 2024: Deep Learning of a 200-member Ensemble with a Limited Historical Training to Improve the Prediction of Extreme Precipitation Events, submitted to MWR, under review.
